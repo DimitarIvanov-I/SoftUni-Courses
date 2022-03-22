@@ -1,0 +1,1 @@
+In this directory i will be listing all the progress i have meid during my course at SoftUni Programming Fundamentals with Python
