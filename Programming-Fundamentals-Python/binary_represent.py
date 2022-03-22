@@ -1,3 +1,5 @@
+# A program that convert decimal numbers to a binary code and returns a given 0 or 1 count
+
 n = int(input())
 number = n
 b = int(input())
